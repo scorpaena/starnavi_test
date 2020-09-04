@@ -1,11 +1,8 @@
 Django==2.2.12
 django-jet2==1.0.10
 djangorestframework==3.11.0
-celery==4.4.2
-#RabbitMQ 3.8.3
 psycopg2-binary==2.8.5
-Pillow==7.1.1
-django-localflavor==3.0.1
-django-fsm==2.7.0
 django-json-widget==1.0.1
 django-filter==2.2.0
+djangorestframework-simplejwt==4.4.0
+
